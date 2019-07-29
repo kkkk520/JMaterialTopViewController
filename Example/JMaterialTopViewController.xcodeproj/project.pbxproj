@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF1F2B6F22EF025C0097DC80 /* TopViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF1F2B6E22EF025C0097DC80 /* TopViewController.m */; };
 		BF4061F222EB5C0E00819C5E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BF4061F122EB5C0E00819C5E /* AppDelegate.m */; };
 		BF4061F522EB5C0E00819C5E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF4061F422EB5C0E00819C5E /* ViewController.m */; };
 		BF4061F822EB5C0E00819C5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF4061F622EB5C0E00819C5E /* Main.storyboard */; };
@@ -38,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BF1F2B6D22EF025C0097DC80 /* TopViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TopViewController.h; sourceTree = "<group>"; };
+		BF1F2B6E22EF025C0097DC80 /* TopViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TopViewController.m; sourceTree = "<group>"; };
 		BF4061ED22EB5C0E00819C5E /* JMaterialTopViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JMaterialTopViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF4061F022EB5C0E00819C5E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		BF4061F122EB5C0E00819C5E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -114,6 +117,8 @@
 				BF4061F122EB5C0E00819C5E /* AppDelegate.m */,
 				BF4061F322EB5C0E00819C5E /* ViewController.h */,
 				BF4061F422EB5C0E00819C5E /* ViewController.m */,
+				BF1F2B6D22EF025C0097DC80 /* TopViewController.h */,
+				BF1F2B6E22EF025C0097DC80 /* TopViewController.m */,
 				BF4061F622EB5C0E00819C5E /* Main.storyboard */,
 				BF40622222EB5EE100819C5E /* JMaterialTopViewController */,
 				BF4061F922EB5C1000819C5E /* Assets.xcassets */,
@@ -288,6 +293,7 @@
 				BF4061F522EB5C0E00819C5E /* ViewController.m in Sources */,
 				BF40622B22EB5EE100819C5E /* JMaterialTopFlowLayout.m in Sources */,
 				BF40622A22EB5EE100819C5E /* JMaterialTopTitleLabel.m in Sources */,
+				BF1F2B6F22EF025C0097DC80 /* TopViewController.m in Sources */,
 				BF40620022EB5C1000819C5E /* main.m in Sources */,
 				BF40622922EB5EE100819C5E /* JMaterialTopViewController.m in Sources */,
 				BF4061F222EB5C0E00819C5E /* AppDelegate.m in Sources */,

@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "JMaterialTopViewController.h"
+#import "TopViewController.h"
 
 @interface ViewController ()
 
@@ -21,7 +21,7 @@
 }
 
 - (IBAction)click:(UIButton *)sender {
-    JMaterialTopViewController *topVC = [[JMaterialTopViewController alloc] init];
+    TopViewController *topVC = [[TopViewController alloc] init];
     topVC.view.backgroundColor = UIColor.whiteColor;
     
     UIViewController *aVC = UIViewController.new;
@@ -57,7 +57,6 @@
     }
     
     [self.navigationController pushViewController:topVC animated:YES];
-    
 }
 
 @end
